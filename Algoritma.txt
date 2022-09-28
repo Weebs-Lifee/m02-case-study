@@ -1,0 +1,20 @@
+Mulai
+print="================================="
+Masukkan Nomor_Atrian 
+Masukkan Nama_Pasien
+Masukkan Umur_Pasien
+Masukkan No_Hp
+Masukkan Alamat
+Masukkan Poli
+Masukkan Jenis_Layanan
+Masukkan Suhu_Badan
+Masukkan Berat_Badan
+Masukkan Keluhan
+print="================================="
+Masukkan Tanggal
+Masukkan Admin
+
+print NAMA_KLINIK="Klinik Mikro Health" Alamat="Jl. Thamrin 125 Binjai, Medan - Sumatera Utara"
+print =================================
+
+Selesai
